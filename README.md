@@ -1,4 +1,4 @@
-# Restaurant Website UI
+# Morden Banking Web UI
 
 ## Overview
 
@@ -33,7 +33,6 @@ npm install
 npm run dev
 ```
 
-![save1](https://github.com/Pratik5767/Morden-Bank-Website-UI/assets/138187006/f8942b25-2b12-4c7d-81c9-a3108b99b444)
+## Link:
 
-![save 2](https://github.com/Pratik5767/Morden-Bank-Website-UI/assets/138187006/c1d3fd11-7c17-42be-9eb7-5e770b345896)
-
+https://merry-dodol-f4a98d.netlify.app/ 
