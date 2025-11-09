@@ -34,5 +34,4 @@ npm run dev
 ```
 
 ## Link:
-
-https://merry-dodol-f4a98d.netlify.app/ 
+https://celadon-yeot-65bfaa.netlify.app/
